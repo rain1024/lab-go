@@ -1,4 +1,6 @@
-# 100 Days of Code
+# Go Adventure
+
+## Lesson 01: Hello World
 
 How to run the code:
 
